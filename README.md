@@ -73,12 +73,9 @@
 ## ⚡️ Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=alpacioncio34&theme=transparent&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=alpacioncio34&theme=transparent&border_radius=10&locale=en" alt="GitHub Streak" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpacioncio34&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most used languages" />
 </div>
 
-<!-- OPTIONAL: contribution snake. Enable it AFTER adding .github/workflows/generate-snake.yml and running the action once.
 <hr>
 
 ## 🐍 My Contributions
@@ -90,6 +87,5 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/alpacioncio34/alpacioncio34/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" width="100%" />
