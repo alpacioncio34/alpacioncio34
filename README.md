@@ -31,7 +31,7 @@
   <a href="mailto:bernyj100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/bernardo-carro-rold%C3%A1n-b2025a38b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
